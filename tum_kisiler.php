@@ -1,0 +1,1 @@
+{ "kisiler" :[{ "kisi_id" : " 1 " , "kisi_ad" : " ahmet " , "kisi_tel" : " 111 " },{ "kisi_id" : " 2 " , "kisi_ad" : " mehmet " , " kisi_tel" : " 2222 " }], "başarı" : 1 }
